@@ -22,16 +22,8 @@ for (let i = 2; i <= 10; i+=2) {
 // right mouse click on file > open in integrated terminal`
 
 ```
-![Image]()
-lab-01-node.png![image](https://user-images.githubusercontent.com/84113983/120701167-60d24280-c467-11eb-976e-e358cff09d0d.png)
+*Creating Folders in Termianl*
+
+lab-01-folders.png![image](https://user-images.githubusercontent.com/84113983/120707927-c1fe1400-c46f-11eb-8685-f4dc13f8cb39.png)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/killua-boop/cit281-lab1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
