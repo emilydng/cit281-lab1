@@ -9,11 +9,6 @@
   -  Practice keyboard shortcuts
   -  Create your first Node.js server-side JavaScript file
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image]()
-
-
 Lab-01-node.js
  
   `function square(num) {
@@ -27,6 +22,9 @@ for (let i = 2; i <= 10; i+=2) {
 // right mouse click on file > open in integrated terminal`
 
 ```
+![Image]()
+lab-01-node.png![image](https://user-images.githubusercontent.com/84113983/120701167-60d24280-c467-11eb-976e-e358cff09d0d.png)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
