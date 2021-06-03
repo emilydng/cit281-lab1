@@ -14,19 +14,19 @@ Goals and Outcomes
 Lab-01-node.js
 
 ```rouge
-  `/*
+  /*
     CIT 281 Lab 1
     Name: Emily Deng
-*/
-function square(num) {
-    return num*num;
-}
-console.log('Square Operations: ')
-for (let i = 2; i <= 10; i+=2) {
-    console.log(`Sqaure of ${i} is ${square(i)}`);
-}
+  */
+  function square(num) {
+      return num*num;
+  }
+  console.log('Square Operations: ')
+  for (let i = 2; i <= 10; i+=2) {
+      console.log(`Sqaure of ${i} is ${square(i)}`);
+  }
 
-// right mouse click on file > open in integrated terminal`
+  // right mouse click on file > open in integrated terminal
 
 ```
 *Creating Folders in Terminal*
