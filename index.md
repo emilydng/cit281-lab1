@@ -11,7 +11,11 @@
 
 Lab-01-node.js
  
-  `function square(num) {
+  `/*
+    CIT 281 Lab 1
+    Name: Emily Deng
+*/
+function square(num) {
     return num*num;
 }
 console.log('Square Operations: ')
