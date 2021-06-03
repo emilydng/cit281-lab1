@@ -11,12 +11,10 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://user-images.githubusercontent.com/84113983/120699888-d76e4080-c465-11eb-8b7a-f1b45ded8fb6.png)
-
-lab-01-node.png![image](https://user-images.githubusercontent.com/84113983/120700737-dc7fbf80-c466-11eb-9631-372f00ef94b0.png)
+[Link](url) and ![Image]()
 
 
- _Code_
+ *Lab-01-node.png*
   `function square(num) {
     return num*num;
 }
