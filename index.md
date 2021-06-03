@@ -22,8 +22,8 @@ for (let i = 2; i <= 10; i+=2) {
 // right mouse click on file > open in integrated terminal`
 
 ```
-*Creating Folders in Termianl*
+*Creating Folders in Terminal*
 
-lab-01-folders.png![image](https://user-images.githubusercontent.com/84113983/120707927-c1fe1400-c46f-11eb-8685-f4dc13f8cb39.png=250x250)
+lab-01-folders.png![image](https://user-images.githubusercontent.com/84113983/120707927-c1fe1400-c46f-11eb-8685-f4dc13f8cb39.png =250x250)
 
 
