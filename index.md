@@ -1,8 +1,8 @@
 ## Lab 1
 
-### Goals and Outcomes
-
 ```markdown
+Goals and Outcomes
+
   -  Install and setup your personal computer with the software tools required for this course
   -  Practice using software tools
   -  Practice terminal or shell commands
