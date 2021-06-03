@@ -13,7 +13,7 @@ Goals and Outcomes
 
 Lab-01-node.js
 
-```ruby
+```rouge
   /*
     CIT 281 Lab 1
     Name: Emily Deng
