@@ -11,7 +11,7 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![image](https://user-images.githubusercontent.com/84113983/120699888-d76e4080-c465-11eb-8b7a-f1b45ded8fb6.png)
 
  _Code_
   `function square(num) {
