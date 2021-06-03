@@ -1,25 +1,30 @@
 ## Lab 1
 
 ### Goals and Outcomes
+
+```markdown
   -  Install and setup your personal computer with the software tools required for this course
   -  Practice using software tools
   -  Practice terminal or shell commands
   -  Practice keyboard shortcuts
   -  Create your first Node.js server-side JavaScript file
-  
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```
+```
+  _Code_
+  `function square(num) {
+    return num*num;
+}
+console.log('Square Operations: ')
+for (let i = 2; i <= 10; i+=2) {
+    console.log(`Sqaure of ${i} is ${square(i)}`);
+}
+
+// right mouse click on file > open in integrated terminal`
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
