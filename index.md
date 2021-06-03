@@ -14,7 +14,7 @@
 [Link](url) and ![Image]()
 
 
- ### Lab-01-node.png
+Lab-01-node.js Code
  
   `function square(num) {
     return num*num;
