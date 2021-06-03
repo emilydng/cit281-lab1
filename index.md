@@ -9,7 +9,11 @@ Goals and Outcomes
   -  Practice keyboard shortcuts
   -  Create your first Node.js server-side JavaScript file
 
+```
+
 Lab-01-node.js
+
+```rouge
  
   `/*
     CIT 281 Lab 1
