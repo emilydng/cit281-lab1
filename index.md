@@ -12,9 +12,8 @@
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-```
-  _Code_
+
+ _Code_
   `function square(num) {
     return num*num;
 }
