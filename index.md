@@ -24,6 +24,6 @@ for (let i = 2; i <= 10; i+=2) {
 ```
 *Creating Folders in Terminal*
 
-<img src="https://user-images.githubusercontent.com/84113983/120708439-6c763700-c470-11eb-89a5-71320ed46e24.png" width="1264/2" height="848/2" />
+<img src="https://user-images.githubusercontent.com/84113983/120708439-6c763700-c470-11eb-89a5-71320ed46e24.png" width="700" height="300" />
 
 
